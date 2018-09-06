@@ -1,0 +1,6 @@
+framework module MWeng_HybridModule {
+  umbrella header "MWeng_HybridModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

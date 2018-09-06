@@ -1,0 +1,16 @@
+PODS:
+  - MWeng_HybridModule (0.1.0)
+
+DEPENDENCIES:
+  - MWeng_HybridModule (from `../`)
+
+EXTERNAL SOURCES:
+  MWeng_HybridModule:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MWeng_HybridModule: a9f6b0b4f597776a5302db2dd43315ef20b9a1c2
+
+PODFILE CHECKSUM: 12511bd338b3e65d7b8bbdd656694f09d2843985
+
+COCOAPODS: 1.4.0
